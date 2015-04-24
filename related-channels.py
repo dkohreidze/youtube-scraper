@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # David Kohreidze
-# yt_related_channels.py
+# related-channels.py
 
 import csv
 import re

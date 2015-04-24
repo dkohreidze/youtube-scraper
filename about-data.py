@@ -24,6 +24,7 @@ with open('inputURLs.csv', 'rU') as cf:
 	for row in reader:
 		l = l + row			
 
+
 for current in l:
 	# retrieves the resources from webpage
 	r = requests.get(current)

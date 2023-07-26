@@ -166,6 +166,6 @@ for query in q:
 	count = 1
 	print('\n')	
 
-print externalLinks
+print(externalLinks)
 f.close()
 k.close()
